@@ -6,4 +6,4 @@
         - Tạo một alisa: alias code='open -a"Visual Studio Code"'
         - ctrl X để lưu, nhấn y và enter để hoàn thành và thoát ra
         - source ~/.bash_profile (source ~/.zshrc) để tải lại file cấu hình
-        - sau đó mở file bằng: code + path_của_folder
+        - sau đó mở file bằng: code + path_của_folder 
