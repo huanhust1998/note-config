@@ -19,4 +19,4 @@ I. Merge và rebase
     Nhược điểm:
         - Gây sung đột khi các thay đổi từ 2 nhánh ảnh hưởng lên cùng một vùng code.
     Hình ảnh minh hoạ:
-        ![git rebase](git_rebase.png)
+![git merge](git_rebase.png)
